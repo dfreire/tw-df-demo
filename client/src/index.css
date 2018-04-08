@@ -1,0 +1,10 @@
+body { height: 100%; }
+.h100 { height: 100%; }
+.p50 { padding: 50px; }
+.p20 { padding: 20px; }
+.ma { margin: auto; }
+.w100 { width: 100%; }
+.w400 { width: 400px; }
+.bgWhite { background-color: #ffffff; }
+.bgRed { background-color: #EC7063; }
+.bgGreen { background-color: #82E0AA; }
